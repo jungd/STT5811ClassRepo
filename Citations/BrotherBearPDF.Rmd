@@ -2,7 +2,7 @@
 title: "Brother Bear"
 author: "Sitka"
 date: "8/24/2015"
-output: html_document
+output: pdf_document
 nocite: |
   @abadie_dysgenesis_2010
 csl: apa.csl
@@ -23,7 +23,7 @@ Make sure your `*.bib` file is in the same folder as your `*.Rmd` or specify the
 
 ## Some Mathematics
 
-Mathematics can be written with standard $\LaTeX$.  Inline equations are enclosed in between single `$` signs, and display equations are enclosed between double `$$` signs.
+Mathematics can be written with standard \LaTeX.  Inline equations are enclosed in between single `$` signs, and display equations are enclosed between double `$$` signs.
 
 
 #### The limit of a function
