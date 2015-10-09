@@ -130,7 +130,7 @@ set.seed(145)
 
 * *Your answer*
 
-(q) Construct 95% confidence intervals for $\pi$ the true proportion of words in the Gettysburg address that have at least one `e` using the Wald (asymptotic) and Agresti-Coull methods using the values obtained in (s).  What is the actual value for $\pi$?  Do either or both of the constructed confidence intervals contain $\pi$?  Interpret the constructed confidence intervals. [10 pts]   
+(q) Construct 95% confidence intervals for $\pi$ the true proportion of words in the Gettysburg address that have at least one `e` using the Wald (asymptotic) and Agresti-Coull methods using the values obtained in (p).  What is the actual value for $\pi$?  Do either or both of the constructed confidence intervals contain $\pi$?  Interpret the constructed confidence intervals. [10 pts]   
 
 ```{r}
 # Your code
