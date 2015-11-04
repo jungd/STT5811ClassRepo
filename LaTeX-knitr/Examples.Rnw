@@ -15,6 +15,7 @@
 \author{Alan's Modifications and Notes}
 
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 \maketitle
 
 <<setup, include = FALSE>>=
